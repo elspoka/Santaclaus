@@ -6,7 +6,7 @@ npm install --global @ui5/cli
 
 ui5 -v
 
-git clone https://github.com//elspoka/xxxxx.git
+git clone https://github.com/elspoka/xxxxx.git
 
 cd xxxxx
 
