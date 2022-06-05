@@ -22,7 +22,7 @@ sap.ui.define([
 	         
 	         $.ajax({
 	     		dataType: "json",
-	     		url: "https://api.backendless.com/2CF53ABC-39A6-B0FE-FFCF-D90B34DC5E00/B508D603-A943-E97E-FF7E-936F9CBF7B00/data/Products",
+	     		url: "https://raw.githubusercontent.com/elspoka/Santaclaus/master/mockup_api/Products.json",
 	     		type: "GET",
 	     		success: function( oData, textStatus, xhr ) {
 
