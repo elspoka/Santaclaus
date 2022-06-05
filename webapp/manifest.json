@@ -66,11 +66,11 @@
       },
 	  "products": {
 		"type": "sap.ui.model.json.JSONModel",
-		"uri": "https://api.backendless.com/2CF53ABC-39A6-B0FE-FFCF-D90B34DC5E00/B508D603-A943-E97E-FF7E-936F9CBF7B00/data/Products"
+		"uri": "https://raw.githubusercontent.com/elspoka/Santaclaus/master/mockup_api/Products.json"
 	  },
 	  "suppliers": {
 		"type": "sap.ui.model.json.JSONModel",
-		"uri": "https://api.backendless.com/2CF53ABC-39A6-B0FE-FFCF-D90B34DC5E00/B508D603-A943-E97E-FF7E-936F9CBF7B00/data/Suppliers"
+		"uri": "https://raw.githubusercontent.com/elspoka/Santaclaus/master/mockup_api/Suppliers.json"
 	  }
     },
 	"routing": {
