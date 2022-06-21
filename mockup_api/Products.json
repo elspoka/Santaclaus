@@ -1,198 +1,271 @@
-[
-  {
-	"ProductID": 1,
-	"ProductName": "Chai",
-	"UnitsInStock": 39,
-	"UnitsOnOrder": 10,
-	"UnitPrice": 8,
-	"SupplierID": 1,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(1)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 2,
-	"ProductName": "Chang",
-	"UnitsInStock": 81,
-	"UnitsOnOrder": 7,
-	"UnitPrice": 6,
-	"SupplierID": 1,
-	"Discontinued": true,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(2)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 3,
-	"ProductName": "Aniseed Syrup",
-	"UnitsInStock": 100,
-	"UnitsOnOrder": 6,
-	"UnitPrice": 3,
-	"SupplierID": 3,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(3)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 4,
-	"ProductName": "Schwarzwälder Kirschtorte",
-	"UnitsInStock": 2,
-	"UnitsOnOrder": 3,
-	"UnitPrice": 19,
-	"SupplierID": 3,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(4)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 5,
-	"ProductName": "Chef Anton's Cajun Seasoning",
-	"UnitsInStock": 11,
-	"UnitsOnOrder": 9,
-	"UnitPrice": 108,
-	"SupplierID": 3,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(5)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 6,
-	"ProductName": "Chef Anton's Gumbo Mix",
-	"UnitsInStock": 21,
-	"UnitsOnOrder": 12,
-	"UnitPrice": 18,
-	"SupplierID": 4,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(6)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 7,
-	"ProductName": "Grandma's Boysenberry Spread",
-	"UnitsInStock": 25,
-	"UnitsOnOrder": 25,
-	"UnitPrice": 18,
-	"SupplierID": 5,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(7)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 8,
-	"ProductName": "Uncle Bob's Organic Dried Pears",
-	"UnitsInStock": 29,
-	"UnitsOnOrder": 7,
-	"UnitPrice": 35,
-	"SupplierID": 6,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(8)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 9,
-	"ProductName": "Northwoods Cranberry Sauce",
-	"UnitsInStock": 4,
-	"UnitsOnOrder": 32,
-	"UnitPrice": 35,
-	"SupplierID": 6,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(9)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 10,
-	"ProductName": "Mishi Kobe Niku",
-	"UnitsInStock": 40,
-	"UnitsOnOrder": 5,
-	"UnitPrice": 130,
-	"SupplierID": 5,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(10)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 11,
-	"ProductName": "Ikura",
-	"UnitsInStock": 4,
-	"UnitsOnOrder": 10,
-	"UnitPrice": 13,
-	"SupplierID": 4,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(11)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 13,
-	"ProductName": "Carnarvon Tigers",
-	"UnitsInStock": 36,
-	"UnitsOnOrder": 40,
-	"UnitPrice": 56,
-	"SupplierID": 3,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(13)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 14,
-	"ProductName": "Teatime Chocolate Biscuits",
-	"UnitsInStock": 21,
-	"UnitsOnOrder": 40,
-	"UnitPrice": 7,
-	"SupplierID": 2,
-	"Discontinued": false,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(14)/Supplier"
-	  }
-	}
-  },
-  {
-	"ProductID": 15,
-	"ProductName": "Alice Mutton",
-	"UnitsInStock": 90,
-	"UnitsOnOrder": 20,
-	"UnitPrice": 75,
-	"SupplierID": 2,
-	"Discontinued": true,
-	"Supplier": {
-	  "__deferred": {
-		"uri": "/destinations/northwind/V2/Northwind/Northwind.svc/Products(15)/Supplier"
-	  }
-	}
-  }
-]
+[{
+	"ID": "HT-1002",
+	"CurrencyCode": "USD",
+	"StockQuantity": "139",
+	"Name": "Notebook Basic 18",
+	"Description": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+	"SubCategoryId": "Notebooks",
+	"SubCategoryName": "Notebooks",
+	"MainCategoryId": "Computer Systems",
+	"MainCategoryName": "Computer Systems",
+	"SupplierId": "100000002",
+	"SupplierName": "DelBont Industries",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "1570.00",
+	"DimensionHeight": "2.5",
+	"DimensionWidth": "28",
+	"DimensionDepth": "19",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1002.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "3.00",
+	"RatingCount": "4",
+	"WeightMeasure": "4.2",
+	"WeightUnit": "kg",
+	"content_Id": 2,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000002"
+}, {
+	"ID": "HT-1007",
+	"CurrencyCode": "USD",
+	"StockQuantity": "148",
+	"Name": "ITelO Vault",
+	"Description": "Digital Organizer with State-of-the-Art Storage Encryption",
+	"SubCategoryId": "PDAs & Organizers",
+	"SubCategoryName": "PDAs & Organizers",
+	"MainCategoryId": "Computer Components",
+	"MainCategoryName": "Computer Components",
+	"SupplierId": "100000004",
+	"SupplierName": "Panorama Studios",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "299.00",
+	"DimensionHeight": "3",
+	"DimensionWidth": "32",
+	"DimensionDepth": "22",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1007.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "3.00",
+	"RatingCount": "13",
+	"WeightMeasure": "0.2",
+	"WeightUnit": "kg",
+	"content_Id": 4,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000004"
+}, {
+	"ID": "HT-1010",
+	"CurrencyCode": "EUR",
+	"StockQuantity": "145",
+	"Name": "Notebook Professional 15",
+	"Description": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+	"SubCategoryId": "Notebooks",
+	"SubCategoryName": "Notebooks",
+	"MainCategoryId": "Computer Systems",
+	"MainCategoryName": "Computer Systems",
+	"SupplierId": "100000005",
+	"SupplierName": "TECUM",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "1999.00",
+	"DimensionHeight": "3",
+	"DimensionWidth": "33",
+	"DimensionDepth": "20",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1010.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "3.08",
+	"RatingCount": "12",
+	"WeightMeasure": "4.3",
+	"WeightUnit": "kg",
+	"content_Id": 5,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000005"
+}, {
+	"ID": "HT-1022",
+	"CurrencyCode": "ARS",
+	"StockQuantity": "146",
+	"Name": "Comfort Easy",
+	"Description": "32 GB Digital Assistant with high-resolution color screen",
+	"SubCategoryId": "PDAs & Organizers",
+	"SubCategoryName": "PDAs & Organizers",
+	"MainCategoryId": "Computer Components",
+	"MainCategoryName": "Computer Components",
+	"SupplierId": "100000009",
+	"SupplierName": "Telecomunicaciones Star",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "1679.00",
+	"DimensionHeight": "14",
+	"DimensionWidth": "84",
+	"DimensionDepth": "1.5",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1022.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "0.00",
+	"RatingCount": "0",
+	"WeightMeasure": "0.2",
+	"WeightUnit": "kg",
+	"content_Id": 9,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000009"
+}, {
+	"ID": "HT-1095",
+	"CurrencyCode": "USD",
+	"StockQuantity": "148",
+	"Name": "Lovely Sound 5.1 Wireless",
+	"Description": "5.1 Headset, 40 Hz-20 kHz, Wireless",
+	"SubCategoryId": "Headsets",
+	"SubCategoryName": "Headsets",
+	"MainCategoryId": "Computer Components",
+	"MainCategoryName": "Computer Components",
+	"SupplierId": "100000033",
+	"SupplierName": "PC Gym Tec",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "49.00",
+	"DimensionHeight": "23",
+	"DimensionWidth": "24",
+	"DimensionDepth": "19",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1095.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "2.88",
+	"RatingCount": "8",
+	"WeightMeasure": "80",
+	"WeightUnit": "g",
+	"content_Id": 78,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000033"
+}, {
+	"ID": "HT-1107",
+	"CurrencyCode": "ARS",
+	"StockQuantity": "150",
+	"Name": "Smart Money",
+	"Description": "Complete package, 1 User, bring your money in your mind, see what you have and what you want",
+	"SubCategoryId": "Software",
+	"SubCategoryName": "Software",
+	"MainCategoryId": "Software",
+	"MainCategoryName": "Software",
+	"SupplierId": "100000009",
+	"SupplierName": "Telecomunicaciones Star",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "29.90",
+	"DimensionHeight": "19",
+	"DimensionWidth": "12",
+	"DimensionDepth": "1.5",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1107.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "2.86",
+	"RatingCount": "7",
+	"WeightMeasure": "0.5",
+	"WeightUnit": "kg",
+	"content_Id": 54,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000009"
+}, {
+	"ID": "HT-1500",
+	"CurrencyCode": "EUR",
+	"StockQuantity": "140",
+	"Name": "Server Basic",
+	"Description": "Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity",
+	"SubCategoryId": "Servers",
+	"SubCategoryName": "Servers",
+	"MainCategoryId": "Computer Systems",
+	"MainCategoryName": "Computer Systems",
+	"SupplierId": "100000023",
+	"SupplierName": "GetrÃ¤nkegroÃŸhandel Janssen",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "5000.00",
+	"DimensionHeight": "23",
+	"DimensionWidth": "34",
+	"DimensionDepth": "35",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-1500.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "2.78",
+	"RatingCount": "9",
+	"WeightMeasure": "18",
+	"WeightUnit": "kg",
+	"content_Id": 68,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000023"
+}, {
+	"ID": "HT-2026",
+	"CurrencyCode": "USD",
+	"StockQuantity": "150",
+	"Name": "Audio/Video Cable Kit - 4m",
+	"Description": "Quality cables for notebooks and projectors",
+	"SubCategoryId": "Computer System Accessories",
+	"SubCategoryName": "Computer System Accessories",
+	"MainCategoryId": "Computer Systems",
+	"MainCategoryName": "Computer Systems",
+	"SupplierId": "100000002",
+	"SupplierName": "DelBont Industries",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "29.99",
+	"DimensionHeight": "13",
+	"DimensionWidth": "21",
+	"DimensionDepth": "10.2",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-2026.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "2.00",
+	"RatingCount": "1",
+	"WeightMeasure": "0.2",
+	"WeightUnit": "kg",
+	"content_Id": 92,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000002"
+}, {
+	"ID": "HT-6131",
+	"CurrencyCode": "ARS",
+	"StockQuantity": "149",
+	"Name": "Flat Watch HD37",
+	"Description": "37-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"SubCategoryId": "Flat Screen TVs",
+	"SubCategoryName": "Flat Screen TVs",
+	"MainCategoryId": "TV, Video & HiFi",
+	"MainCategoryName": "TV, Video & HiFi",
+	"SupplierId": "100000027",
+	"SupplierName": "Developement Para O Governo",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "1199.00",
+	"DimensionHeight": "61",
+	"DimensionWidth": "99.1",
+	"DimensionDepth": "26",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-6131.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "0.00",
+	"RatingCount": "0",
+	"WeightMeasure": "2.2",
+	"WeightUnit": "kg",
+	"content_Id": 72,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000027"
+}, {
+	"ID": "HT-9994",
+	"CurrencyCode": "USD",
+	"StockQuantity": "150",
+	"Name": "Camcorder View",
+	"Description": "1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7\" wide LCD display",
+	"SubCategoryId": "Camcorders",
+	"SubCategoryName": "Camcorders",
+	"MainCategoryId": "TV, Video & HiFi",
+	"MainCategoryName": "TV, Video & HiFi",
+	"SupplierId": "100000021",
+	"SupplierName": "Florida Holiday Company",
+	"LastModified": "2016-04-22T11:13:10.0000000",
+	"Price": "1388.00",
+	"DimensionHeight": "27",
+	"DimensionWidth": "48",
+	"DimensionDepth": "31",
+	"DimensionUnit": "cm",
+	"ImageUrl": "/webapp/localService/assets/HT-9994.jpg",
+	"QuantityUnit": "EA",
+	"MeasureUnit": "each",
+	"AverageRating": "3.50",
+	"RatingCount": "2",
+	"WeightMeasure": "3.8",
+	"WeightUnit": "kg",
+	"content_Id": 111,
+	"___FK_ff3fec8150fb1f6b0fadadfd_00038": "100000021"
+}]
