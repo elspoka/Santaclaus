@@ -20,7 +20,7 @@
     "@openui5/themelib_sap_fiori_3": "^1.71.3"
   },
   "devDependencies": {
-    "@ui5/cli": "^1.12.0",
+    "@ui5/cli": "^3.0.0",
     "eslint": "^6.6.0"
   },
   "main": "karma-ci.conf.js",
